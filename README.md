@@ -20,3 +20,5 @@ Able to predict superbowl winner as first or second best team for all three year
 Able to predict upsets, when higher seeded teams lost early on
 
 pitfalls: did badly when there was too high of an upset, like the 16-0 patriots losing in the super bowl
+
+NOTE: The actual full paper is also included in this repository, if you would like to view that as well
